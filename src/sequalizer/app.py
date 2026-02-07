@@ -1,5 +1,8 @@
+from rich import console
+
+
 def main():
-    print("Hello from sequalizer!")
+    print("Sequalizer")
 
 
 if __name__ == "__main__":
